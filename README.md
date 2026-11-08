@@ -2,7 +2,7 @@
 
 **DISCLAIMER** - Namrr is in no way associated with any of Servarr's software.
 
-Namrr is an episode naming/renaming tool for jellyfin.
+Namrr is an episode naming/renaming tool for Jellyfin.
 When you rip physical media from something like a Blu-Ray or a DVD, the episodes are very rarely named in a way that Jellyfin will recognize.
 Typically, the only thing you can do about this is go in and manually rename every episode.  Nobody wants to do that.
 Luckily, you can now get around this by using Namrr!
