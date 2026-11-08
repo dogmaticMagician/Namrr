@@ -75,7 +75,7 @@ for season_number, season_folder in enumerate(season_folders, start=1):
     for video_file, (episode_code, episode_name) in zip(video_files, episodes):
 
         new_name = (
-            f"{show_name} - {episode_code} - {episode_name}"
+            f"{show_name} {episode_code} {episode_name}"
             f"{video_file.suffix.lower()}"
         )
 
