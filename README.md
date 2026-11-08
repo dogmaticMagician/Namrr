@@ -7,7 +7,18 @@ When you rip physical media from something like a Blu-Ray or a DVD, the episodes
 Typically, the only thing you can do about this is go in and manually rename every episode.  Nobody wants to do that.
 Luckily, you can now get around this by using Namrr!
 
-## Usage
+## Installation
+
+Installing Namrr is super easy and straightforward.
+1. Download the .zip
+2. Extract it to where you want Namrr to live
+3. run the following command in the Namrr directory
+
+```
+pip install -r requirements.txt
+```
+
+### Usage
 
 To use Namrr, simply run it using the [run.sh](run.sh) script in the directory containing the season folders of your show.
 Namrr will prompt you for an IMDb ID.  You can get this right from the IMDb website.
