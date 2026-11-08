@@ -18,7 +18,7 @@ Installing Namrr is super easy and straightforward.
 pip install -r requirements.txt
 ```
 
-### Usage
+## Usage
 
 To use Namrr, simply run it using the [run.sh](run.sh) script in the directory containing the season folders of your show.
 Namrr will prompt you for an IMDb ID.  You can get this right from the IMDb website.
