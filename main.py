@@ -38,14 +38,14 @@ print(f"Seasons found: {len(season_folders)}")
 # Process each season
 for season_number, season_folder in enumerate(season_folders, start=1):
 
-    season_key = f"season{season_number}"
+    season_key = str(season_number)
 
-    if season_key not in data:
-        print(f"Missing API data for {season_key}")
+    if season_key not in data["seasons"]:
+        print(f"Missing API data for {season_number}")
         continue
 
     # Get episode information
-    episodes = data[season_key]
+    episodes = data["seasons"][season_key]
 
     # Sort episodes by episode number
     episodes = sorted(
