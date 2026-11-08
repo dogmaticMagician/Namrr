@@ -12,7 +12,7 @@ Luckily, you can now get around this by using Namrr!
 Installing Namrr is super easy and straightforward.
 1. Download the .zip
 2. Extract it to where you want Namrr to live
-3. run the following command in the Namrr directory
+3. Run the following command in the Namrr directory
 
 ```
 pip install -r requirements.txt
