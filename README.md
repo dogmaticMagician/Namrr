@@ -31,3 +31,5 @@ https://www.imdb.com/title/<IMDb_ID>/
 After that Namrr will prompt you for a directory.  This should be the Directory containing all season folders for the show.
 You can use Namrr even if you don't have all seasons of a show, it will simply skip any seasons that are not present in the directory you input.
 I suggest having your season folders named according to [Jellyfin's official recommended naming scheme.](https://jellyfin.org/docs/general/server/media/shows/)
+
+[Click here to watch a quick demo of the tool](https://youtu.be/Qeu2LlPEBfU)
